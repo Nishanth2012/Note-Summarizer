@@ -1,4 +1,4 @@
-Note Summarizer
+#Note Summarizer
 
 Ever stared at a wall of text and thought, I wish this was shorter? That’s exactly what this app does.
 
